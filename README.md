@@ -59,8 +59,8 @@ FinSaathi AI is an AI-powered assistant built using IBM watsonx.ai and Granite m
 ## 📊 Results
 FinSaathi AI successfully answered diverse financial questions using RAG + Granite LLM. The project empowers users with digital financial knowledge in an easy and interactive format.
 
-<img src="https://github.com/user-attachments/assets/Screenshot (116).png" alt="Demo Screenshot 1" />
-<img src="https://github.com/user-attachments/assets/Screenshot (117).png" alt="Demo Screenshot 2" />
+<img src="https://github.com/amar-deep-jha/DigitalFinancialAdvisor-AI-Agent/blob/main/Screenshot%20(116).png" alt="Demo Screenshot 1" />
+<img src="https://github.com/amar-deep-jha/DigitalFinancialAdvisor-AI-Agent/blob/main/Screenshot%20(117).png" alt="Demo Screenshot 2" />
 
 ## 📁 Repository Contents
 - `FinSaathi_Agent_Notebook.ipynb`: Agent development notebook inside watsonx.ai
