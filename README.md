@@ -61,6 +61,10 @@ FinSaathi AI successfully answered diverse financial questions using RAG + Grani
 
 <img src="https://github.com/amar-deep-jha/DigitalFinancialAdvisor-AI-Agent/blob/main/Screenshot%20(116).png" alt="Demo Screenshot 1" />
 <img src="https://github.com/amar-deep-jha/DigitalFinancialAdvisor-AI-Agent/blob/main/Screenshot%20(117).png" alt="Demo Screenshot 2" />
+<img src="https://github.com/amar-deep-jha/DigitalFinancialAdvisor-AI-Agent/blob/main/Screenshot%20(118).png" alt="Demo Screenshot 3" />
+<img src="https://github.com/amar-deep-jha/DigitalFinancialAdvisor-AI-Agent/blob/main/Screenshot%20(119).png" alt="Demo Screenshot 4" />
+<img src="https://github.com/amar-deep-jha/DigitalFinancialAdvisor-AI-Agent/blob/main/Screenshot%20(120).png" alt="Demo Screenshot 5" />
+<img src="https://github.com/amar-deep-jha/DigitalFinancialAdvisor-AI-Agent/blob/main/Screenshot%20(121).png" alt="Demo Screenshot 6" />
 
 ## 📁 Repository Contents
 - `FinSaathi_Agent_Notebook.ipynb`: Agent development notebook inside watsonx.ai
